@@ -11,6 +11,10 @@ npm install
 ```
 
 ```bash
+npm install -g pm2
+```
+
+```bash
 pm2 start app.js
 ```
 ## Enable/Disable bots
